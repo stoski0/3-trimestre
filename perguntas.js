@@ -1,72 +1,72 @@
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+    criarCartao(
+    'Matemática',
+    'Quanto é 7 x 8?',
+    '56'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Português',
+    'O que é um verbo?',
+    'É uma palavra que indica ação, estado ou fenômeno.'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Ciências',
+    'O que é fotossíntese?',
+    'É o processo pelo qual as plantas produzem seu alimento.'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Geografia',
+    'Qual é a capital do Brasil?',
+    'Brasília'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'História',
+    'Quem descobriu o Brasil?',
+    'Pedro Álvares Cabral'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Biologia',
+    'O que é uma célula?',
+    'É a unidade básica dos seres vivos.'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Matemática',
+    'O que é uma fração?',
+    'É uma forma de representar uma parte de um todo.'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Português',
+    'O que é um substantivo?',
+    'É a palavra que dá nome a pessoas, lugares, objetos ou seres.'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Geografia',
+    'Qual é o maior oceano?',
+    'O Oceano Pacífico'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Ciências',
+    'O que é um planeta?',
+    'É um corpo celeste que orbita uma estrela.'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'História',
+    'Em que ano o Brasil foi descoberto pelos portugueses?',
+    '1500'
 )
-criarcartao(
-    'categoria',
-    'pergunta',
-    'resposta'
 
+criarCartao(
+    'Geografia',
+    'O que é clima?',
+    'É o conjunto das condições atmosféricas de uma região ao longo do tempo.'
 )
