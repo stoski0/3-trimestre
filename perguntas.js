@@ -70,3 +70,4 @@ criarCartao(
     'O que é clima?',
     'É o conjunto das condições atmosféricas de uma região ao longo do tempo.'
 )
+
